@@ -29,7 +29,7 @@ pip install ttkbootstrap reportlab
 ## Ejecución
 
 ```bash
-cd sistema_farmacia
+cd sistema_farmacia-main
 python main.py
 ```
 
@@ -43,7 +43,7 @@ datos** (flujo normal, caso límite y dato inválido), tal como exige la guía d
 evaluación:
 
 ```bash
-cd sistema_farmacia
+cd sistema_farmacia-main
 python tests/test_estructuras.py
 ```
 
